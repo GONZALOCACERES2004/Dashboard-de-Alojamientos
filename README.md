@@ -40,7 +40,7 @@ Esta visualización permite ver:
 
 Se muestran imágenes de ejemplo
 
-![Imagen de Ejemplo](imagen1.png)
+![Imagen de Ejemplo](Imagen1.png)
 ![Imagen de Ejemplo](Imagen2.png)
 ![Imagen de Ejemplo](Imagen3.png)
 ![Imagen de Ejemplo](Imagen4.png)
