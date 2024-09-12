@@ -18,11 +18,12 @@ El dashboard incluye varios filtros interactivos que permiten a los usuarios per
 3.	Número de Dormitorios: Filtra los alojamientos según la cantidad de dormitorios.
 4.	Número de Baños: Selecciona alojamientos basados en la cantidad de baños.
 5.	Capacidad de Alojamiento: Ajusta el número de personas que el alojamiento puede acomodar.
+   
 Estos filtros afectan a todas las visualizaciones simultáneamente, permitiendo un análisis detallado y específico.
 
 Visualizaciones
 
-1.	Precio vs Vecindario: diagrama de barras que muestra la distribución de precios para cada vecindario.
+1.	Precio vs Vecindario: Diagrama de barras que muestra la distribución de precios para cada vecindario.
 Esta visualización permite ver:
 •	La variación de precios dentro de cada vecindario.
 •	Comparar la distribución de precios entre diferentes vecindarios.
