@@ -22,11 +22,18 @@ Estos filtros afectan a todas las visualizaciones simultáneamente, permitiendo 
 
 Visualizaciones
 
-1.	Precio Promedio vs Vecindario: Gráfico de barras que muestra el precio promedio por vecindario.
-2.	Puntuación de Reseñas vs Precio: Gráfico de dispersión que relaciona las puntuaciones con los precios.
-3.	Precio vs Metros Cuadrados: Gráfico de dispersión que muestra la relación entre precio y tamaño.
-4.	Tabla de Datos: Presenta información detallada de los alojamientos en formato tabular.
+1.	Precio vs Vecindario: diagrama de barras que muestra la distribución de precios para cada vecindario.
+Esta visualización permite ver:
+•	La variación de precios dentro de cada vecindario.
+•	Comparar la distribución de precios entre diferentes vecindarios.
+•	Identificar vecindarios con alojamientos más caros o más baratos.
+•	Detectar posibles valores atípicos (alojamientos con precios muy altos o muy bajos) en cada vecindario.
 
-[Ver Cuadro de Mando]( https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/
-Dashboard.html)
+2.	Puntuación de Reseñas vs Precio: Un gráfico de dispersión que muestra la calificación de reseñas en el eje x, el precio en el eje y, y el tamaño de los puntos representa la capacidad de alojamiento.
+
+3.	Precio vs Metros Cuadrados: Gráfico dispersión que muestra los metros cuadrados en el eje x y el precio en el eje y, con colores que representan diferentes vecindarios.
+
+4.	Tabla de Datos: Una tabla interactiva que muestra el conjunto de datos filtrado, permitiendo a los usuarios explorar la información en detalle..
+
+[Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.html)
 
