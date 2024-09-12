@@ -37,6 +37,7 @@ Esta visualización permite ver:
 4.	Tabla de Datos: Una tabla interactiva que muestra el conjunto de datos filtrado, permitiendo a los usuarios explorar la información en detalle.
 
 Acceso al Dashboard Interactivo
+
 Te invito a explorar el dashboard interactivo. Puedes acceder a él haciendo clic en el siguiente enlace:
 
 [Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.html)
