@@ -1,4 +1,4 @@
-Análisis de Precios de Alojamientos
+# Análisis de Precios de Alojamientos
 
 Este proyecto presenta un cuadro de mando interactivo para analizar los precios de alojamiento.
 Desarrollado en R utilizando flexdashboard, este dashboard ofrece una visión completa y dinámica del mercado inmobiliario local.
