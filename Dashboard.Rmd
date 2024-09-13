@@ -37,7 +37,7 @@ min_price <- min(df_madrid$Price, na.rm = TRUE)
 max_price <- max(df_madrid$Price, na.rm = TRUE)
 ```
 
-Column {.sidebar data-width=250}
+Column {.sidebar data-width=350}
 -----------------------------------------------------------------------
 
 ### Filters
