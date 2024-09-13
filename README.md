@@ -43,9 +43,10 @@ Te invito a explorar el dashboard interactivo. Puedes acceder a él haciendo cli
 [Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.html)
 
 
-[Ver Codigo en R](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.md)
+Puedes descarga el código en este enlace
+[Descargar Codigo en R](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.Rmd)
 
-[Ver el código fuente del Dashboard](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.md)
+
 
 
 Se muestran imágenes de ejemplo
