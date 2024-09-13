@@ -43,13 +43,13 @@ Te invito a explorar el dashboard interactivo. Puedes acceder a él haciendo cli
 [Ver Cuadro de Mando](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.html)
 
 
-Puedes descarga el código en este enlace
+Para realizar prácticas(Técnicas de ciencia de datos como regresión lineal), implementar otros gráficos
+
+Puedes descarga el código y los datos en este enlace
 
 [Descargar Codigo en R](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.Rmd)
 
-[Descargar Baes de Datos ](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/df_madrid.rds)
-
-
+[Descargar Base de Datos ](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/df_madrid.rds)
 
 
 Se muestran imágenes de ejemplo
