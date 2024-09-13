@@ -45,6 +45,7 @@ Te invito a explorar el dashboard interactivo. Puedes acceder a él haciendo cli
 
 Puedes descarga el código en este enlace
 [Descargar Codigo en R](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/Dashboard.Rmd)
+[Descargar Baes de Datos ](https://gonzalocaceres2004.github.io/Dashboard-de-Alojamientos/df_madrid.rds)
 
 
 
