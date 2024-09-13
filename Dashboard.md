@@ -1,25 +1,19 @@
 ---
-title: "Análisis de precios de Alojamientos"
+title: "Untitled"
 author: "Gonzalo Caceres"
-date: "2024-09-06"
-output: 
-  flexdashboard::flex_dashboard:
-    theme: default
-    orientation: columns
-    vertical_layout: fill
+date: "2024-09-13"
+output: html_document
 ---
-
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
-#library(shiny)
 library(ggplot2)
 library(dplyr)
 library(plotly)
 library(DT)
 library(crosstalk)
 library(htmlwidgets)
-onRender <- htmlwidgets::onRender
+
 
 
 # Cargar y preparar datos
