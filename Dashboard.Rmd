@@ -26,7 +26,8 @@ onRender <- htmlwidgets::onRender
 df_madrid <- readRDS("df_madrid.rds") %>%
   mutate(Bathrooms = round(Bathrooms, 0)) %>%
   select(-Square.Feet) %>%
-  filter(!is.na(Price), !is.na(Neighbourhood))
+  filter(across(everything(), ~!is.na(.) & . != 0))  %>%
+  arrange((Price))  # Ordenar por precio de mayor a menor
 
 # Crear un objeto SharedData
 sd <- SharedData$new(df_madrid)
